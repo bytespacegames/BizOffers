@@ -1,0 +1,2 @@
+# BizOffers
+BizOffers is an esoteric programming language, most notably unique due to its interpreter / IDE, which is the only official way to run BizOffers code, and does not allow for loading via file, which makes it required to manually input code each time it is run. The language also includes "offers" where the IDE will randomly insert a line that messes up the users code, and the programmer has to counter it with another line (or lines) of code to reverse the changes made by the offer.
